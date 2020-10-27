@@ -6,8 +6,6 @@
 - Algos
   - https://www.coursera.org/learn/algorithms-divide-conquer/home/welcome
   - https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Discrete_Probability
-  - https://courses.byte-by-byte.com/products/6-weeks-to-interview-ready-2/categories/2310307
-  - https://leetcode.com/problemset/all/?difficulty=Medium
 - 
 
 
