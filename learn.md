@@ -9,7 +9,6 @@
 - 
 
 
-## Database systems engineer
 ### RocksDb / levelDb
 ### Conceptual Blurb / design diagrams / recall Q
 - Cassandra
